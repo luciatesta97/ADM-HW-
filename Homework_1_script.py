@@ -2,7 +2,7 @@
 #Since I've never studied XML and Regex, I haven't done them. I'll study them during this term and I'll update the git_repository
 
 #Say Hello World with python_exercise_1
-
+#controllo
 print("Hello, World!")
 
 #If-Else_exercise_2
